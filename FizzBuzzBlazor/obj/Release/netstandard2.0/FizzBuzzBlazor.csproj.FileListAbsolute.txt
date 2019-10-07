@@ -129,3 +129,4 @@ D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Release\netstandard2.0\blazor\linker\S
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Release\netstandard2.0\blazor\linker\FizzBuzzBlazor.pdb
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Release\netstandard2.0\blazor\inputs.bootjson.cache
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Release\netstandard2.0\blazor\blazor.boot.json
+D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Release\netstandard2.0\FizzBuzzBlazor.csprojAssemblyReference.cache
