@@ -1,6 +1,14 @@
-bin/
+bin\
+obj\
 .vs
 .vs\FizzBuzzBlazor
 .vs\FizzBuzzBlazor\config
 .vs\FizzBuzzBlazor\DesignTimeBuild
 .vs\FizzBuzzBlazor\v16
+FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/blazor.boot.json
+FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/blazor.server.js
+FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/blazor.webassembly.js
+FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/wasm/mono.js
+FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/wasm/mono.wasm
+FizzBuzzBlazor/bin/Release/netstandard2.0/FizzBuzzBlazor.blazor.config
+FizzBuzzBlazor/bin/Release/netstandard2.0/Properties/launchSettings.json
