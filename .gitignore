@@ -1,3 +1,6 @@
 bin/
 .vs
 .vs\FizzBuzzBlazor
+.vs\FizzBuzzBlazor\config
+.vs\FizzBuzzBlazor\DesignTimeBuild
+.vs\FizzBuzzBlazor\v16
