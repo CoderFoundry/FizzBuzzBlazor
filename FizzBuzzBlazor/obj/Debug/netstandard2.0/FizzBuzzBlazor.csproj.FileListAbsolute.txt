@@ -60,7 +60,6 @@ D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\bin\Debug\netstandard2.0\System.Runtime.Co
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\bin\Debug\netstandard2.0\System.Text.Json.dll
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
-D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Debug\netstandard2.0\FizzBuzzBlazor.csprojAssemblyReference.cache
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Debug\netstandard2.0\staticwebassets\FizzBuzzBlazor.StaticWebAssets.Manifest.cache
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Debug\netstandard2.0\staticwebassets\FizzBuzzBlazor.StaticWebAssets.xml
 D:\Code\FizzBuzzBlazor\FizzBuzzBlazor\obj\Debug\netstandard2.0\FizzBuzzBlazor.RazorComponent.input.cache

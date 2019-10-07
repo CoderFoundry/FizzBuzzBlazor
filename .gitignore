@@ -12,3 +12,6 @@ FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/wasm/mono.js
 FizzBuzzBlazor/bin/Release/netstandard2.0/dist/_framework/wasm/mono.wasm
 FizzBuzzBlazor/bin/Release/netstandard2.0/FizzBuzzBlazor.blazor.config
 FizzBuzzBlazor/bin/Release/netstandard2.0/Properties/launchSettings.json
+FizzBuzzBlazor/bin/Debug/netstandard2.0/dist/_framework/blazor.server.js
+FizzBuzzBlazor/bin/Debug/netstandard2.0/dist/_framework/blazor.server.js
+FizzBuzzBlazor/obj/Debug/netstandard2.0/FizzBuzzBlazor.csproj.FileListAbsolute.txt
